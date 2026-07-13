@@ -1,0 +1,144 @@
+*{
+   font-family:monospace
+}
+body{
+    background-image:url("head.png");
+    background-size:cover;
+    background-attachment:fixed;
+    
+    
+}
+header{
+    font-size:20px;
+    height:100vh;
+    text-align:center;
+    padding:100px;
+    background-image:url("head.png");
+    background-size:cover;
+    background-attachment:fixed;
+    
+    
+}
+.head{
+    background-color:antiquewhite;
+    padding:10px;
+    border-radius:2em;
+}
+.head marquee{
+    font-family:italic;
+    background-color:aqua;
+    border-radius:2em;
+    padding:20px;
+    font-size:40px;
+}
+
+marquee{
+    background-color:rgb(235, 106, 14);
+    border-radius:2em;
+    height:60px;
+}
+marquee:hover{
+    background-color:aqua;
+    color:black;
+}
+.button{
+    height:40px;
+    width:110px;
+    border-radius:20px;
+    background-color:greenyellow;
+    text-align:center;
+    
+    
+
+      
+}
+.button:hover{
+     background-color:blue;
+     color:white;
+}
+.card{
+    
+    padding:20px;
+    border-radius:15px;
+    height:100vh;
+    font-size:25px;
+    color:white;
+    
+}
+
+
+img{
+    float:right;
+
+}
+.skills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+}
+.skills span{
+    background-color:rgb(115, 239, 20);
+    border:None;
+    border-radius:8px;
+    padding:8px 18px;
+}
+.skills span:hover{
+    background-color:rgb(255, 0, 102);
+    color:white;
+}
+.card marquee{
+    font-size:35px;
+}
+
+.project{
+    padding:10px;
+    border-radius:10px;
+}
+.p1{
+    background-color:rgb(126, 236, 78);
+    color:black;
+}
+.p2{
+     color:black;
+     background-color:rgb(126, 236, 78);
+}
+.p3{
+     color:black;
+     background-color:rgb(126, 236, 78);
+}
+
+.p1:hover{
+    background-color:rgb(244, 129, 41);
+    color:white;
+}
+.p2:hover{
+    background-color:rgb(244, 41, 139);
+     color:white;
+}
+
+.p3:hover{
+    background-color:rgb(244, 129, 41);
+     color:white;
+}
+table{
+    width:100%;
+    background-color:black;
+    padding:12px;
+    color:antiquewhite;
+}
+th,td{
+    border:1px solid;
+}
+th{
+    background-color:aquamarine;
+    color:black;
+}
+footer{
+    position:fixed;
+    bottom:1em;
+    background-color:white;
+    font-size:1.5em;
+    height:25px;
+    border-radius:1.5em;
+}
+
