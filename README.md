@@ -66,6 +66,8 @@ PersonalPortfolio/
 
 **Duration:** 06 June 2026 – 18 July 2026
 
+**Intern ID:** CITS2254
+
 ---
 
 ## 📚 Learning Outcomes
