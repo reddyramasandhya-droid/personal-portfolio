@@ -23,6 +23,7 @@ header{
     background-color:antiquewhite;
     padding:10px;
     border-radius:2em;
+    cursor:pointer;
 }
 .head marquee{
     font-family:italic;
@@ -97,28 +98,34 @@ img{
 .p1{
     background-color:rgb(126, 236, 78);
     color:black;
+    cursor:pointer;
 }
 .p2{
      color:black;
      background-color:rgb(126, 236, 78);
+     cursor:pointer;
 }
 .p3{
      color:black;
      background-color:rgb(126, 236, 78);
+     cursor:pointer;
 }
 
 .p1:hover{
     background-color:rgb(244, 129, 41);
     color:white;
+    cursor:pointer;
 }
 .p2:hover{
     background-color:rgb(244, 41, 139);
-     color:white;
+    color:white;
+    cursor:pointer;
 }
 
 .p3:hover{
     background-color:rgb(244, 129, 41);
-     color:white;
+    color:white;
+    cursor:pointer;
 }
 table{
     width:100%;
